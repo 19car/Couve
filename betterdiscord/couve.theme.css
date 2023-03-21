@@ -13,7 +13,7 @@
   --version: "2.3.0";
 
   /* Colors */
-  --main-color: #419e85;
+  --main-color: #007aef;
 
   /* Borders */
   --avatar-radius: 8px;
@@ -22,8 +22,8 @@
 /* Dark/Light vars */
 .theme-dark {
   /* BGs */
-  --background-primary: #252a3e;
-  --background-secondary: #1e2337;
+  --background-primary: #002d59;
+  --background-secondary: #0055a7;
   --background-secondary-alt: #1c2438;
   --background-secondary-alt-alt: #1b1d31;
   --background-tertiary: #060c24;
